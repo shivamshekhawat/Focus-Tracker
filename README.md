@@ -58,10 +58,10 @@ Modern browser with location support
 
 Installation
 
-git clone https://github.com/yourusername/focus-tracker.git
+git clone https://github.com/shivamshekhawat/Focus-Tracker.git
 cd focus-tracker
-npm install
-npm run dev
+nppm install
+pnpm run dev
 Then visit: http://localhost:3000
 
 🧠 What You'll Learn
@@ -74,9 +74,6 @@ How to write clean UI using Tailwind CSS
 How to structure a real-world project with Next.js + TypeScript
 
 📁 Project Structure
-bash
-Copy
-Edit
 src/
 ├── app/
 │   └── page.tsx               # Main app layout
